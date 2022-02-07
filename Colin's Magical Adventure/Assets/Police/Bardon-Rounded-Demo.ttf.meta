@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: c61181e5dc1cb724ba258376eb96a37a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bardon
+  fontNames:
+  - Bardon
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2a1a1b163a4ea3049b8228d177a30017, type: 3}
+  - {fileID: 12800000, guid: 6e624e8a7c90e664b9ba0330120239a7, type: 3}
+  - {fileID: 12800000, guid: 3cf5d0ec78356bb49b0954931a118c76, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
